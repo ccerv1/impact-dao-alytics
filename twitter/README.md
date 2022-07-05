@@ -5,7 +5,7 @@
 
 ## Getting started
 - Add your Twitter API credientials to `credentials.py`
-- Get a list of Project Names and Twitter Handles (see example of `data/twitter_list.csv`)
+- Get a list of Project Names and Twitter Handles (see example of `data/TwitterList.csv`)
 
 ## Getting data from Twitter
 - Execute the script `build_database.py` passing the pathname of the csv file above as an argument
